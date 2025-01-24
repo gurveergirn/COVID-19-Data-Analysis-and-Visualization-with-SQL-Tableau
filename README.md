@@ -19,3 +19,6 @@ Data Sources:
 - Tableau
 - Excel (data source)
 - SQL Server Management Studio (SSMS)
+
+![COVID Data Analysis Dashboard](https://github.com/user-attachments/assets/f16e2251-43a5-4ba0-9400-d408f8cbe42d)
+
