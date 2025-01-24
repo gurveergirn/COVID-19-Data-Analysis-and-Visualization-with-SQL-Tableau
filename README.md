@@ -1,18 +1,21 @@
 # COVID-19 Data Analysis with SQL
 
 ## Overview
-This project aims to analyze COVID-19 data using SQL Server. The dataset contains information on COVID-19 cases, deaths, vaccinations, and other public health indicators. Key objectives include calculating case fatality rates, analyzing vaccination trends, and exploring correlations with demographic and economic factors.
+This project provides an end-to-end analysis of peak COVID-19 data using SQL Server for data processing and Tableau for visualization. The dataset includes key COVID-19 metrics such as total cases, deaths, vaccinations, and demographic indicators across countries and continents. The project aims to derive meaningful insights, such as trends in infection rates, death percentages, and vaccination coverage, with interactive visualizations to support data-driven decision-making.
 
 ## Features
-- Data import from Excel files into SQL Server.
-- Data cleaning and transformation.
-- Analysis of:
-  - Total and daily cases/deaths.
-  - Vaccination rates and trends.
-  - Case fatality rate (CFR) calculation.
-  - Public health indicators and comparisons.
+Data Processing:
+ - SQL scripts for data import, transformation, and cleaning.
+ - Queries to calculate COVID-19 metrics such as case fatality rates, vaccination rates, and population infection trends.
+Visualizations:
+ - Tableau dashboards for global and regional insights.
+ - Interactive charts for tracking total deaths per continent, population infection rates, and forecasting trends.
+Data Sources:
+ - Excel files containing COVID-19 statistics prepared for Tableau reporting.
+ - SQL queries designed to extract and process data efficiently.
 
 ## Technologies Used
 - SQL Server (T-SQL)
+- Tableau
 - Excel (data source)
 - SQL Server Management Studio (SSMS)
